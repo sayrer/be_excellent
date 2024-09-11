@@ -1,0 +1,181 @@
+
+
+
+
+MODeration PrOceDures                                          A. Winter
+Internet-Draft                                     Bill S. Preston, Esq.
+Intended status: Informational                                 K. Reeves
+Expires: 15 March 2025                              Ted "Theodore" Logan
+                                                           R. Sayre, Ed.
+                                                       11 September 2024
+
+
+                       Be Excellent To Each Other
+                  draft-sayre-modpod-excellent-latest
+
+Abstract
+
+   This issue is a bummer, and the IETF consensus is to hope such
+   matters never come up.
+
+About This Document
+
+   This note is to be removed before publishing as an RFC.
+
+   The latest revision of this draft can be found at
+   https://sayrer.github.io/be_excellent/draft-sayre-modpod-
+   excellent.html.  Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-sayre-modpod-excellent/.
+
+   Discussion of this document takes place on the MODeration PrOceDures
+   Working Group mailing list (mailto:mod-discuss@ietf.org), which is
+   archived at https://mailarchive.ietf.org/arch/browse/mod-discuss/.
+   Subscribe at https://www.ietf.org/mailman/listinfo/mod-discuss/.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/sayrer/be_excellent.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 15 March 2025.
+
+Copyright Notice
+
+   Copyright (c) 2024 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
+
+Table of Contents
+
+   1.  Introduction
+   2.  Conventions and Definitions
+   3.  Be Excellent To Each Other
+   4.  Security Considerations
+   5.  IANA Considerations
+   6.  References
+     6.1.  Normative References
+     6.2.  Informative References
+   Acknowledgments
+   Authors' Addresses
+
+1.  Introduction
+
+   There is some informal text in this document, but the topic is
+   serious.  There are also procedural rules at the end of the document.
+   If you find yourself about to send a message you might regret,
+   consult this text first.
+
+2.  Conventions and Definitions
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
+   "OPTIONAL" in this document are to be interpreted as described in
+   BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
+   capitals, as shown here.
+
+3.  Be Excellent To Each Other
+
+   As described in [EXCELLENT].
+
+   Keanu Reeves: "What does 'Be Excellent To Each Other' mean?"
+
+   Alex Winter: "You gotta add the second part, though.  It really is a
+   two part thing, right?  It can't be the one without the other."
+
+   Keanu Reeves: "Right, and "party on, dudes.""
+
+   "I think the sentiment of it is really just be the best person/human
+   you can be.  And, if you do that, then you can party on.  You're
+   going to be safe, you're going to be supported.  You're going to get
+   the gift of giving, you're going to get the gift of receiving, you're
+   going to get the gift of sharing."
+
+   "We're just some humans on a rock in space.  It's kind of nice to
+   promote that idea.  Give it a little 'bring it in' a little 'group
+   hug'."
+
+   Alex Winter: "I've always interpreted those two sayings joined
+   together the way they are as ...you know Bill & Ted is really about
+   friendship, which means it's about community, which means it's about
+   the interconnectness of people, and being compassionate about that
+   interconnectedness."
+
+   "I think, for me, that 'Bill & Ted' has always been about being
+   compassionate to your fellows, but also engaging with life.  That's
+   what the 'party on' part has always meant to me.  Just like, you can
+   be compassionate, and still just live in isolation."
+
+   "Bill & Ted are always, like, going out on to these adventures with,
+   like, optimism, and hope, and positivity."
+
+   "So, I think it's like be kind to your fellow man, but engage with
+   the world, like be out in the world.  That's a really cool message, I
+   think."
+
+4.  Security Considerations
+
+   One problem with failing to be excellent to each other is that people
+   wander off.  Then, documents don't get the security review they
+   require.
+
+5.  IANA Considerations
+
+   This document has no IANA actions.
+
+6.  References
+
+6.1.  Normative References
+
+   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
+              Requirement Levels", BCP 14, RFC 2119,
+              DOI 10.17487/RFC2119, March 1997,
+              <https://www.rfc-editor.org/rfc/rfc2119>.
+
+   [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
+              2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
+              May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
+
+6.2.  Informative References
+
+   [EXCELLENT]
+              "Keanu Reeves & Alex Winter explain: "Be excellent to each
+              other" - 'Bill & Ted 3' (08/20)", n.d.,
+              <https://www.youtube.com/watch?v=gv0i8YasmEM>.
+
+Acknowledgments
+
+   The IETF would like to thank Bill & Ted for their guidance.
+
+Authors' Addresses
+
+   Alex Winter
+   Bill S. Preston, Esq.
+
+
+   Keanu Reeves
+   Ted "Theodore" Logan
+
+
+   Robert Sayre (editor)
+   Email: sayrer@gmail.com
