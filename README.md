@@ -1,6 +1,6 @@
-# TODO - Your title
+# Be Excellent To Each Other
 
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+This is the working area for the individual Internet-Draft, "Be Excellent To Each Other".
 
 * [Editor's Copy](https://sayrer.github.io/be_excellent/#go.draft-sayre-modpod-excellent.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-sayre-modpod-excellent)

@@ -1,6 +1,5 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Be Excellent To Each Other"
 category: info
 
 docname: draft-sayre-modpod-excellent-latest
@@ -12,9 +11,9 @@ v: 3
 area: "General"
 workgroup: "MODeration PrOceDures"
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - moderation
+ - excellent
+ - party on
 venue:
   group: "MODeration PrOceDures"
   type: "Working Group"
@@ -24,27 +23,32 @@ venue:
   latest: "https://sayrer.github.io/be_excellent/draft-sayre-modpod-excellent.html"
 
 author:
+ - 
+    fullname: "Alex Winter"
+    organization: "Bill S. Preston, Esq."
+ - 
+    fullname: "Keanu Reeves"
+    organization: "Ted \"Theodore\" Logan"
  -
+    role: editor
     fullname: "Robert Sayre"
-    organization: Your Organization Here
     email: "sayrer@gmail.com"
 
-normative:
-
 informative:
-
+  EXCELLENT:
+    title: "Keanu Reeves & Alex Winter explain: \"Be excellent to each other\" - 'Bill & Ted 3' (08/20)"
+    target: https://www.youtube.com/watch?v=gv0i8YasmEM
 
 --- abstract
 
-TODO Abstract
+This issue is a bummer, and the IETF consensus is to hope such matters never come up.
 
 
 --- middle
 
 # Introduction
 
-TODO Introduction
-
+There is some informal text in this document, but the topic is serious. There are also procedural rules at the end of the document. If you find yourself about to send a message you might regret, consult this text first.
 
 # Conventions and Definitions
 
