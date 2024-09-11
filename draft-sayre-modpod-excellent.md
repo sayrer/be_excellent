@@ -23,10 +23,10 @@ venue:
   latest: "https://sayrer.github.io/be_excellent/draft-sayre-modpod-excellent.html"
 
 author:
- - 
+ -
     fullname: "Alex Winter"
     organization: "Bill S. Preston, Esq."
- - 
+ -
     fullname: "Keanu Reeves"
     organization: "Ted \"Theodore\" Logan"
  -
