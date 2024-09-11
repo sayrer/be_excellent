@@ -60,12 +60,15 @@ There is some informal text in this document, but the topic is serious. There ar
 As described in {{EXCELLENT}}.
 
 Keanu Reeves\:
+
 \"What does 'Be Excellent To Each Other' mean?\"
 
 Alex Winter\:
+
 \"You gotta add the second part, though. It really is a two part thing, right? It can't be the one without the other.\"
 
 Keanu Reeves\:
+
 \"Right, and \"party on, dudes.\"\"
 
 \"I think the sentiment of it is really just be the best person/human you can be. And, if you do that, then you can party on. You're going to be safe, you're going to be supported. You're going to get the gift of giving, you're going to get the gift of receiving, you're going to get the gift of sharing.\"
@@ -73,6 +76,7 @@ Keanu Reeves\:
 \"We're just some humans on a rock in space. It's kind of nice to promote that idea. Give it a little 'bring it in' a little 'group hug'.\"
 
 Alex Winter\:
+  
 \"I've always interpreted those two sayings joined together the way they are as ...you know Bill & Ted is really about friendship, which means it's about community, which means it's about the interconnectness of people, and being compassionate about that interconnectedness.\"
 
 \"I think, for me, that 'Bill & Ted' has always been about being compassionate to your fellows, but also engaging with life. That's what the 'party on' part has always meant to me. Just like, you can be compassionate, and still just live in isolation.\"
