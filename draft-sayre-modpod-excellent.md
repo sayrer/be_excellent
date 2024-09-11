@@ -59,15 +59,15 @@ There is some informal text in this document, but the topic is serious. There ar
 
 As described in {{EXCELLENT}}.
 
-Keanu Reeves\:\\
+Keanu Reeves\:\
 
 \"What does 'Be Excellent To Each Other' mean?\"
 
-Alex Winter\:\\
+Alex Winter\:\
 
 \"You gotta add the second part, though. It really is a two part thing, right? It can't be the one without the other.\"
 
-Keanu Reeves\:\\
+Keanu Reeves\:\
 
 \"Right, and \"party on, dudes.\"\"
 
@@ -75,7 +75,7 @@ Keanu Reeves\:\\
 
 \"We're just some humans on a rock in space. It's kind of nice to promote that idea. Give it a little 'bring it in' a little 'group hug'.\"
 
-Alex Winter\:\\
+Alex Winter\:\
 
 \"I've always interpreted those two sayings joined together the way they are as ...you know Bill & Ted is really about friendship, which means it's about community, which means it's about the interconnectness of people, and being compassionate about that interconnectedness.\"
 
