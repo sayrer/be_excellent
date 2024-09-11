@@ -85,6 +85,20 @@ Bill & Ted are always, like, going out on to these adventures with, like, optimi
 
 So, I think it's like be kind to your fellow man, but engage with the world, like be out in the world. That's a really cool message, I think.\"
 
+# Intermission
+
+Does this document resemble "counting to 10" or "calming down"? Yes, it does.
+
+# Rules
+
+0-12 days\: Anyone appointed to moderate an IETF mailing list (such as a WG chair, or an IETF list moderator) can prevent posting from anyone for twelve days, either through outright blocking or screening, with no transparency aside from informing the person being moderated.
+
+Hopefully, this action will be used only for a day or two. This capability is good, because there's no shame. It is not to be used in "Last Call" situations, as those have a time limit as well. Twelve days might seem like a long time, but the policy is intended to cover all times of year. Anyone can start a blog, or CC an email to a non-IETF list. Anyone is free to publish somewhere exempt from IETF moderation. However, it may be that the IETF audience's attention is being abused through IETF infrastructure, so that's why this action exists.
+  
+12-24 days\: The moderator or WG chair must inform an Area Director or the IETF Chair, as appropriate, and again inform the participant.
+
+24-36 days\: If the problem persists this long, it is in BCP 83 or IETF Ombudsman territory, which quite likely might have started in the previous steps. At this point, it must be publicly pointed out.
+
 # Security Considerations
 
 One problem with failing to be excellent to each other is that people wander off. Then, documents don't get the security review they require.
