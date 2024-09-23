@@ -2,12 +2,10 @@
 
 
 
-MODeration PrOceDures                                          A. Winter
-Internet-Draft                                     Bill S. Preston, Esq.
-Intended status: Informational                                 K. Reeves
-Expires: 15 March 2025                              Ted "Theodore" Logan
-                                                           R. Sayre, Ed.
-                                                       11 September 2024
+MODeration PrOceDures                                           R. Sayre
+Internet-Draft                                         23 September 2024
+Intended status: Informational                                          
+Expires: 27 March 2025
 
 
                        Be Excellent To Each Other
@@ -15,8 +13,7 @@ Expires: 15 March 2025                              Ted "Theodore" Logan
 
 Abstract
 
-   This issue is a bummer, and the IETF consensus is to hope such
-   matters never come up.
+   The greatest and least heinous of all golden rules.
 
 About This Document
 
@@ -50,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 15 March 2025.
+   This Internet-Draft will expire on 27 March 2025.
 
 Copyright Notice
 
@@ -70,23 +67,20 @@ Table of Contents
 
    1.  Introduction
    2.  Conventions and Definitions
-   3.  Be Excellent To Each Other
-   4.  Intermission
-   5.  Rules
-   6.  Security Considerations
-   7.  IANA Considerations
-   8.  References
-     8.1.  Normative References
-     8.2.  Informative References
-   Acknowledgments
-   Authors' Addresses
+   3.  Policy
+   4.  Rules
+   5.  Security Considerations
+   6.  IANA Considerations
+   7.  References
+     7.1.  Normative References
+     7.2.  Informative References
+   Author's Address
 
 1.  Introduction
 
    There is some informal text in this document, but the topic is
-   serious.  There are also procedural rules at the end of the document.
-   If you find yourself about to send a message you might regret,
-   consult this text first.
+   serious.  If you find yourself about to send a message you might
+   regret, consult this text first.
 
 2.  Conventions and Definitions
 
@@ -96,59 +90,12 @@ Table of Contents
    BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
    capitals, as shown here.
 
-3.  Be Excellent To Each Other
+3.  Policy
 
-   As described in [EXCELLENT].
+   Be Excellent To Each Other.  For a more extensive explanation, refer
+   to [EXCELLENT].
 
-   Keanu Reeves:
-
-   "What does 'Be Excellent To Each Other' mean?"
-
-   Alex Winter:
-
-   "You gotta add the second part, though.  It really is a two part
-   thing, right?  It can't be the one without the other."
-
-   Keanu Reeves:
-
-   "Right, and 'party on, dudes.'
-
-   I think the sentiment of it is really just be the best person/human
-   you can be.  And, if you do that, then you can party on.  You're
-   going to be safe, you're going to be supported.  You're going to get
-   the gift of giving, you're going to get the gift of receiving, you're
-   going to get the gift of sharing."
-
-   We're just some humans on a rock in space.  It's kind of nice to
-   promote that idea.  Give it a little 'bring it in' a little 'group
-   hug'."
-
-   Alex Winter:
-
-   "I've always interpreted those two sayings joined together the way
-   they are as ...you know Bill & Ted is really about friendship, which
-   means it's about community, which means it's about the
-   interconnectness of people, and being compassionate about that
-   interconnectedness.
-
-   I think, for me, that 'Bill & Ted' has always been about being
-   compassionate to your fellows, but also engaging with life.  That's
-   what the 'party on' part has always meant to me.  Just like, you can
-   be compassionate, and still just live in isolation."
-
-   Bill & Ted are always, like, going out on to these adventures with,
-   like, optimism, and hope, and positivity.
-
-   So, I think it's like be kind to your fellow man, but engage with the
-   world, like be out in the world.  That's a really cool message, I
-   think."
-
-4.  Intermission
-
-   Does this document resemble "counting to 10" or "calming down"?  Yes,
-   it does.
-
-5.  Rules
+4.  Rules
 
    0-12 days: Anyone appointed to moderate an IETF mailing list (such as
    a WG chair, or an IETF list moderator) can prevent posting from
@@ -173,19 +120,21 @@ Table of Contents
    IETF Ombudsman territory, which quite likely might have started in
    the previous steps.  At this point, it must be publicly pointed out.
 
-6.  Security Considerations
+   Any of these actions may be appealed.
+
+5.  Security Considerations
 
    One problem with failing to be excellent to each other is that people
    wander off.  Then, documents don't get the security review they
    require.
 
-7.  IANA Considerations
+6.  IANA Considerations
 
    This document has no IANA actions.
 
-8.  References
+7.  References
 
-8.1.  Normative References
+7.1.  Normative References
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
@@ -196,26 +145,14 @@ Table of Contents
               2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
               May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
 
-8.2.  Informative References
+7.2.  Informative References
 
    [EXCELLENT]
               "Keanu Reeves & Alex Winter explain: "Be excellent to each
               other" - 'Bill & Ted 3' (08/20)", n.d.,
               <https://www.youtube.com/watch?v=gv0i8YasmEM>.
 
-Acknowledgments
+Author's Address
 
-   The IETF would like to thank Bill & Ted for their guidance.
-
-Authors' Addresses
-
-   Alex Winter
-   Bill S. Preston, Esq.
-
-
-   Keanu Reeves
-   Ted "Theodore" Logan
-
-
-   Robert Sayre (editor)
+   Robert Sayre
    Email: sayrer@gmail.com
