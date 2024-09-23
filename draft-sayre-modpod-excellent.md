@@ -23,7 +23,6 @@ venue:
   latest: "https://sayrer.github.io/be_excellent/draft-sayre-modpod-excellent.html"
 
 author:
- -
     fullname: "Robert Sayre"
     email: "sayrer@gmail.com"
 
@@ -34,13 +33,13 @@ informative:
 
 --- abstract
 
-
+The greatest and least heinous of all golden rules.
 
 --- middle
 
 # Introduction
 
-There is some informal text in this document, but the topic is serious. There are also procedural rules at the end of the document. If you find yourself about to send a message you might regret, consult this text first.
+There is some informal text in this document, but the topic is serious. If you find yourself about to send a message you might regret, consult this text first.
 
 # Conventions and Definitions
 
@@ -59,6 +58,8 @@ Hopefully, this action will be used only for a day or two. This capability is go
 12-24 days\: The moderator or WG chair must inform an Area Director or the IETF Chair, as appropriate, and again inform the participant.
 
 24-36 days\: If the problem persists this long, it is in BCP 83 or IETF Ombudsman territory, which quite likely might have started in the previous steps. At this point, it must be publicly pointed out.
+
+Any of these actions may be appealed.
 
 # Security Considerations
 
