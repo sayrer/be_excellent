@@ -47,7 +47,7 @@ There is some informal text in this document, but the topic is serious. If you f
 
 # Policy
 
-Be Excellent To Each Other. For a more extensive explanation, refer to {{EXCELLENT}}.
+Be Excellent To Each Other. For an extensive explanation, refer to {{EXCELLENT}}.
 
 # Rules
 
