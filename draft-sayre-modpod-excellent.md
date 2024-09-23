@@ -53,7 +53,11 @@ Be Excellent To Each Other. For a more extensive explanation, refer to {{EXCELLE
 
 0-12 days\: Anyone appointed to moderate an IETF mailing list (such as a WG chair, or an IETF list moderator) can prevent posting from anyone for twelve days, either through outright blocking or screening, with no transparency aside from informing the person being moderated.
 
-Hopefully, this action will be used only for a day or two. This capability is good, because there's no shame. It is not to be used in "Last Call" situations, as those have a time limit as well. Twelve days might seem like a long time, but the policy is intended to cover all times of year. Anyone can start a blog, or CC an email to a non-IETF list. Anyone is free to publish somewhere exempt from IETF moderation. However, it may be that the IETF audience's attention is being abused through IETF infrastructure, so that's why this action exists.
+Hopefully, this action will be used only for a day or two. This capability is good, because there's no shame. It is not to be used in "Last Call" situations, as those have a time limit as well. Twelve days might seem like a long time, but the policy is intended to cover all times of year.
+
+Anyone can start a blog, or CC an email to a non-IETF list. There are many venues not subject to IETF moderation.
+
+However, it may be that the IETF audience's attention is being abused through IETF infrastructure, so that's why this action exists.
 
 12-24 days\: The moderator or WG chair must inform an Area Director or the IETF Chair, as appropriate, and again inform the participant.
 
