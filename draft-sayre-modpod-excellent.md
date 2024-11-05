@@ -74,8 +74,6 @@ If the problem persists this long, it is in BCP 83 or IETF Ombudsman territory (
 
 The hazard in writing any document of this sort is that it seems to presume the authors and supporters are perfect. They are not.
 
-William Shakespeare notes this problem: "Hoist with his own petard". This phrase is archaic. It means a bomb-maker has been blown up by his own bomb.
-
 Everyone makes mistakes. The IETF will treat people with kindness and grace, but not endless patience.
 
 # Security Considerations
