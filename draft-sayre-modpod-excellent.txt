@@ -3,9 +3,9 @@
 
 
 MODeration PrOceDures                                           R. Sayre
-Internet-Draft                                         23 September 2024
+Internet-Draft                                           5 November 2024
 Intended status: Informational                                          
-Expires: 27 March 2025
+Expires: 9 May 2025
 
 
                        Be Excellent To Each Other
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 27 March 2025.
+   This Internet-Draft will expire on 9 May 2025.
 
 Copyright Notice
 
@@ -72,11 +72,12 @@ Table of Contents
      4.1.  0-12 days
      4.2.  12-24 days
      4.3.  24-36 days
-   5.  Security Considerations
-   6.  IANA Considerations
-   7.  References
-     7.1.  Normative References
-     7.2.  Informative References
+   5.  Sympathy for the Devil
+   6.  Security Considerations
+   7.  IANA Considerations
+   8.  References
+     8.1.  Normative References
+     8.2.  Informative References
    Author's Address
 
 1.  Introduction
@@ -108,7 +109,10 @@ Table of Contents
    Anyone appointed to moderate an IETF mailing list (such as a WG
    chair, or an IETF list moderator) can prevent posting from anyone for
    twelve days, either through outright blocking or screening, with no
-   transparency aside from informing the person being moderated.
+   transparency aside from informing the person being moderated.  The
+   person appointed to moderate the list can send a message along the
+   lines of "we've asked some people to take a break".  Everyone
+   following closely will know anyway.
 
    Hopefully, this action will be used only for a day or two.  This
    capability is good, because there's no shame.  It is not to be used
@@ -119,8 +123,8 @@ Table of Contents
    Anyone can start a blog, or CC an email to a non-IETF list.  There
    are many venues not subject to IETF moderation.
 
-   However, it may be that the IETF audience's attention is being abused
-   through IETF infrastructure, so that's why this action exists.
+   It may be that the IETF audience's attention is being abused through
+   IETF infrastructure, so that's why this action exists.
 
 4.2.  12-24 days
 
@@ -130,22 +134,35 @@ Table of Contents
 4.3.  24-36 days
 
    If the problem persists this long, it is in BCP 83 or IETF Ombudsman
-   territory, which quite likely might have started in the previous
-   steps.  At this point, it must be publicly pointed out.
+   territory (ED: the WG will have newer refs here), which quite likely
+   might have started in the previous steps.  At this point, it must be
+   publicly pointed out.
 
-5.  Security Considerations
+5.  Sympathy for the Devil
+
+   The hazard in writing any document of this sort is that it seems to
+   presume the authors and supporters are perfect.  They are not.
+
+   William Shakespeare notes this problem: "Hoist with his own petard".
+   This phrase is archaic.  It means a bomb-maker has been blown up by
+   his own bomb.
+
+   Everyone makes mistakes.  The IETF will treat people with kindness
+   and grace, but not endless patience.
+
+6.  Security Considerations
 
    One problem with failing to be excellent to each other is that people
    wander off.  Then, documents don't get the security review they
    require.
 
-6.  IANA Considerations
+7.  IANA Considerations
 
    This document has no IANA actions.
 
-7.  References
+8.  References
 
-7.1.  Normative References
+8.1.  Normative References
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
@@ -156,7 +173,7 @@ Table of Contents
               2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
               May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
 
-7.2.  Informative References
+8.2.  Informative References
 
    [EXCELLENT]
               "Keanu Reeves & Alex Winter explain: "Be excellent to each
