@@ -70,7 +70,7 @@ The moderator or WG chair must inform an Area Director or the IETF Chair, as app
 
 If the problem persists this long, it is in BCP 83 or IETF Ombudsman territory (ED: the WG will have newer refs here), which quite likely might have started in the previous steps. At this point, it must be publicly pointed out.
 
-# Sympathy for the Devil
+# Hypocrisy
 
 The hazard in writing any document of this sort is that it seems to presume the authors and supporters are perfect. They are not.
 
