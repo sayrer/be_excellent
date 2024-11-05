@@ -72,7 +72,7 @@ Table of Contents
      4.1.  0-12 days
      4.2.  12-24 days
      4.3.  24-36 days
-   5.  Sympathy for the Devil
+   5.  Hypocrisy
    6.  Security Considerations
    7.  IANA Considerations
    8.  References
@@ -138,7 +138,7 @@ Table of Contents
    might have started in the previous steps.  At this point, it must be
    publicly pointed out.
 
-5.  Sympathy for the Devil
+5.  Hypocrisy
 
    The hazard in writing any document of this sort is that it seems to
    presume the authors and supporters are perfect.  They are not.
