@@ -76,6 +76,8 @@ The hazard in writing any document of this sort is that it seems to presume the 
 
 Everyone makes mistakes. The IETF will treat people with kindness and grace, but not endless patience.
 
+This document describes a two-way street. Moderators must also maintain excellence.
+
 # Security Considerations
 
 One problem with failing to be excellent to each other is that people wander off. Then, documents don't get the security review they require.
